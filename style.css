@@ -40,14 +40,14 @@ h2 {
     margin: 0 0 10px;
     color: #333;
 }
- ul {
-     list-style-type: square;
-     padding-left: 20px;
- }
-  foooter { 
-      text-aling: center;
-      padding: 10px 0;
-      background: #333;
-      color: white;
-      margin-top: 20px;
-  }
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+footer { 
+  text-aling: center;
+  padding: 10px 0;
+  background: #333;
+  color: white;
+  margin-top: 20px;
+}
